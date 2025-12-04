@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "202379543924",
+    "project_id": "mentorai-37c65",
+    "storage_bucket": "mentorai-37c65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202379543924:android:71aa84a6f410e9692cd821",
+        "android_client_info": {
+          "package_name": "com.example.mentorai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202379543924-1rc0gp8hc3uh2g5uvsumntm7ggjtn7rk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mentorai",
+            "certificate_hash": "c5390705a98d4511b0b7fe6630a1a719e332582e"
+          }
+        },
+        {
+          "client_id": "202379543924-u00047t1j1uppj9thocn97hii5dprrr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDELRH2rLV4spyVInbDUXPkJw2OdNT74Yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202379543924-u00047t1j1uppj9thocn97hii5dprrr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
